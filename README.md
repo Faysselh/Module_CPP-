@@ -1,6 +1,6 @@
 <div align="center">
   <img src="src/school_42_logo.jpeg" height="128px" alt="Badge de 42" >
-  <h1>Module CPP</h1>
+  <h1>Modules CPP</h1>
   <p>🚀 Introduction to the Object-Oriented Programming</p>
   <img src="src/grade_CPP.png" alt="Grade of the CPP Module project">
 <pr> 
